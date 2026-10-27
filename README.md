@@ -31,7 +31,7 @@ SQL-запросы в проекте используются для анали�
 ## Yandex DataLens
 1. **[Аналитическая панель параметров персонажей комиксов](https://datalens.yandex/3iirqd8ctdxgo?state=df764a6c292&tab=EO)**
 ## Visiology
-1. **[BI-дашборд комплексного анализа розничных продаж Nike](https://drive.google.com/drive/folders/1d31xv8OxcW5z4UmO2tqaLB71pK3jOjIC?hl=ru)**
+1. **[BI-дашборд комплексного анализа розничных продаж Nike](https://github.com/Mermak1337/Business-analyst-portfolio/tree/main)**
 ## Моделирование в нотациях
 ### BPMN
 

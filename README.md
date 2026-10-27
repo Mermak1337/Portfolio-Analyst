@@ -28,6 +28,8 @@ SQL-запросы в проекте используются для анали�
 ## Power BI
 1. **[Дашборд финансовых результатов компании](https://drive.google.com/file/d/1IGlrkrmXrh1yzFKutM_xj3FbRD7c481J/view?usp=sharing)**
 2. **[Дашборд эффективности менеджеров и магазинов](https://drive.google.com/file/d/1IGlrkrmXrh1yzFKutM_xj3FbRD7c481J/view?usp=sharing)**
+## Yandex DataLens
+1. **[Аналитическая панель параметров персонажей комиксов](https://datalens.yandex/3iirqd8ctdxgo?state=df764a6c292&tab=EO)**
 ## Моделирование в нотациях
 ### BPMN
 
